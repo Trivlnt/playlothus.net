@@ -1,0 +1,45 @@
+#logo{
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-decoration:overline;
+}
+
+#logo a{
+    text-decoration: none;
+}
+
+#logo a:hover{
+    color: black;
+}
+
+p{
+    font-size: 16px;
+    color:rgb(179, 178, 178)
+}
+
+h2{
+    font-size: 48px;
+}
+	
+
+ul li{
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+}
+
+ul li a:hover{
+    color: black;
+    background-color: white;
+    
+
+}
+
+
+
